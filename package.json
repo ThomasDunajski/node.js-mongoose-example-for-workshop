@@ -1,0 +1,4 @@
+{ "name" : "workshop"
+, "description" : "small demo app for a workshop"
+, "dependencies" : {"express" : "*", "mongoose" : "*"}
+}
